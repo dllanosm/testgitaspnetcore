@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dcd7MuunoFonwWW+22aiEQq4sXN2E5NYU8Qw7xcPEylBFF6I9UQl/VFDq5ftUfAYgakBTgEgaSJnBIS4XlgO7A==",
+  "success": true,
+  "projectFilePath": "/home/dllanos/Clase01/MyApp/MyApp.csproj",
+  "expectedPackageFiles": [
+    "/home/dllanos/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
