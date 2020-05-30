@@ -1,0 +1,26 @@
+﻿@model ProductItem;
+
+@{
+
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome Controller Product</h1>
+    <p>Detalle de la Vista Index, Controlador Producto</p>
+    <br />
+    <br />
+    
+    <p>Nombre: @ViewData["ProductName"]</p><br />
+    <p>Tipo: @ViewData["ProductTipo"]</p>
+
+    
+    <p>Nombre: @ViewBag.ProductoName</p><br />
+    <p>Tipo: @ViewBag.ProductoTipo</p>
+
+    
+    
+    <p>Nombre: @Model.Name</p><br />
+    <p>Tipo: @Model.Tipo</p>
+</div>
+

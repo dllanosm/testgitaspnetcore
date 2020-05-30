@@ -35,3 +35,4 @@
 /home/dllanos/Clase01/MyApp/obj/Debug/netcoreapp3.1/MyApp.pdb
 /home/dllanos/Clase01/MyApp/obj/Debug/netcoreapp3.1/MyApp.genruntimeconfig.cache
 /home/dllanos/Clase01/MyApp/obj/Debug/netcoreapp3.1/MyApp.csproj.CopyComplete
+/home/dllanos/Clase01/MyApp/obj/Debug/netcoreapp3.1/Razor/Views/Product/Index.cshtml.g.cs
